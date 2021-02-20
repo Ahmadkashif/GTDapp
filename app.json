@@ -1,0 +1,12 @@
+{
+  "name": "GTDapp",
+  "displayName": "GTDapp",
+  "expo": {
+    "name": "GTDapp",
+    "slug": "GTDapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
